@@ -1,0 +1,106 @@
+@charset "utf-8";
+.header {
+	width:100%;
+}
+#container {
+	width: 100%;
+}
+#logo {
+	height:auto;
+	width:270px;
+	background-image: url(../images/sml_logo.png);
+	margin-left:auto;
+	margin-right:auto;
+}
+nav {
+	padding-top:100px;
+}
+nav ul {
+	font-size:24px;
+	margin-left: 0px;
+}
+nav ul a {
+	width:305px;
+	padding-right:0;
+}
+nav ul li {
+	float:none;
+}
+nav ul li:hover {
+	margin-top:0;
+}
+nav ul a:link, nav ul a:visited {
+	text-align: left;
+}
+nav ul a:hover, nav ul a:active, nav ul a:focus {
+	background-color: rgba(0,55,0,0.4);
+}
+#maincontent {
+	margin-top: 0;
+	padding:0;
+	height:300px;
+}
+#wrapper {
+	width: 100px;
+	height:100px;
+	margin-bottom:80px;
+}
+#vision {
+	background-image:none;
+	width: 280px;
+	height:auto;
+	font-size:16px;
+	line-height:normal;
+	padding-top:0;
+}
+/* Uncomment the declarations in the following rules to hide the images in the pods. */
+.pod {
+	width: 305px;
+	/*padding-bottom:0;*/
+}
+/*.pod h1 {
+	margin-bottom:0;
+}*/
+.podContent {
+	width: 302px;
+	height:180px;
+	/*display:none;*/
+}
+.form_pod {
+	width: 305px;
+
+}
+.form_podContent {
+	width: 302px;
+	height:181px;
+	
+}
+/*#news .podContent {
+	display:block;
+}*/
+footer p {
+	margin-left:5px;
+}
+#facebookTwitter {
+	margin-right:5px;
+}
+#slider img {
+	height: 50px;
+	width: 300px;
+}
+#maincontent {
+	margin-top: 280px;
+	margin-left: 0px;
+}
+#content {
+	width: 315px;
+	height:1100px;
+	padding-top: 0px;
+	margin-top: 300px;
+}
+#sub_content {
+	width:315px;
+	height:600px;
+}.pod .block {
+	background-color: #888FA2;
+}

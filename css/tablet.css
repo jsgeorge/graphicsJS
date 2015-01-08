@@ -1,0 +1,100 @@
+@charset "utf-8";
+#container {
+	width:768px;
+	margin:0px;
+}
+.header {
+	width:768px;
+}
+#logo {
+	height:100px;
+	background-repeat: no-repeat;
+}
+nav {
+	padding-top:20px;
+}
+#content {
+	width: 768px;
+	height:750px;
+}
+
+nav ul {
+	font-size:18px;
+	margin-left: 30px;
+}
+nav ul a {
+	width:70px;
+}
+.pod ul {
+	color: #000;
+}
+
+#maincontent {
+	padding: 0;
+	margin-left:0px;
+	width: 768px;
+}
+
+#sub_content {
+	width:768px;
+	height:400px;
+}
+#wrapper {
+	width:768px;
+	height:337px;
+	margin-bottom:0px;
+}
+#vision {
+	background-image:url(../images/med_hero.jpg);
+	width: 289px;
+	height:217px;
+	padding-top:45px;
+	padding-right:350px;
+	font-size:26px;
+}
+.pod {
+	width: 305px;
+}
+.podContent {
+	width: 302px;
+	height:180px;
+}
+.form_pod {
+	width: 320px;
+
+}
+.form_podContent {
+	width: 254px;
+	height:181px;
+	
+}
+#events {
+	margin-left:7px;
+}
+#news {
+	width:650px;
+	margin-top:20px;
+}
+footer p {
+	margin-left:5px;
+}
+#slider img {
+	height: 150px;
+	width: 519px;
+}
+.page_pod table tr td {
+	height: 50px;
+	width: 150px;
+}
+.page_pod table {
+	height: 200px;
+	width: 500px;
+}
+.page_pod {
+	width: 650px;
+}
+#wrapper .slider-wrapper.theme-default #slider {
+	width: 768px;
+	margin: 0px;
+	padding: 0px;
+}
